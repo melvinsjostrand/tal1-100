@@ -1,0 +1,11 @@
+starta program
+skapa en räknare (räknare=0)
+skapa en variabel (namn=guess)
+skapa ett tal mellan 1-100
+lagra talet i en variabel (namn=num)
+fråga använadre att välja tal 1-100
+fel svar svara program för högt eller för lågt
+lagra antal fel svar
+gissa igen
+rätt svar
+program matar ut hur många försök det tog
